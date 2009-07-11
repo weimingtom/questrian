@@ -1,0 +1,1 @@
+﻿/*Copyright 2009 by John Pavley. All rights reserved.*/package com.questrian{	/*	A GameEngine is a thoughtful part of the game..	*/	public class GameEngine {GameEngine		public function GameEngine():void {			trace("GameEngine()");		}				public function start():void {			// startup		}				public function stop():void {			// shutdown		}	}}
