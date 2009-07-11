@@ -1,0 +1,21 @@
+<projectDescription>
+  <id>1246815716310</id>
+  <name>Questrian</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/john/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/john/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///Macintosh HD/Users/john/Desktop/questrian folder/src2/questrian1.fla</defaultApp>
+  <rootURI>file:///Macintosh HD/Users/john/Desktop/questrian folder/src2/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="CharacterView.as">file:///Macintosh HD/Users/john/Desktop/questrian folder/src2/com/questrian/CharacterView.as</uri>
+    <uri label="QuestrianApp.as">file:///Macintosh HD/Users/john/Desktop/questrian folder/src2/QuestrianApp.as</uri>
+    <uri label="questrian1.fla">file:///Macintosh HD/Users/john/Desktop/questrian folder/src2/questrian1.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
