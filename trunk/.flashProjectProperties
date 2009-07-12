@@ -5,14 +5,19 @@
   <boundTemplate>file:///Macintosh HD/Users/john/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
   <classTemplate>file:///Macintosh HD/Users/john/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
   <classPath>.</classPath>
-  <defaultApp>file:///Macintosh HD/Users/john/Desktop/questrian folder/src2/questrian1.fla</defaultApp>
-  <rootURI>file:///Macintosh HD/Users/john/Desktop/questrian folder/src2/</rootURI>
+  <defaultApp>file:///Macintosh HD/Users/john/Desktop/questrian folder/trunk/questrian1.fla</defaultApp>
+  <rootURI>file:///Macintosh HD/Users/john/Desktop/questrian folder/trunk/</rootURI>
   <flexSDK/>
   <sources editable="false"/>
   <libraries editable="false"/>
   <externalLibraries editable="false"/>
   <compileList editable="false"/>
   <recentFiles editable="false">
+    <uri label="CharacterView.as">file:///Macintosh HD/Users/john/Desktop/questrian folder/trunk/com/questrian/CharacterView.as</uri>
+    <uri label="QuestrianApp.as">file:///Macintosh HD/Users/john/Desktop/questrian folder/trunk/QuestrianApp.as</uri>
+    <uri label="questrian1.fla">file:///Macintosh HD/Users/john/Desktop/questrian folder/trunk/questrian1.fla</uri>
+    <uri label="GameEngine.as">file:///Macintosh HD/Users/john/Desktop/questrian folder/trunk/com/questrian/GameEngine.as</uri>
+    <uri label="StateMachine.as">file:///Macintosh HD/Users/john/Desktop/questrian folder/trunk/com/questrian/StateMachine.as</uri>
     <uri label="CharacterView.as">file:///Macintosh HD/Users/john/Desktop/questrian folder/src2/com/questrian/CharacterView.as</uri>
     <uri label="QuestrianApp.as">file:///Macintosh HD/Users/john/Desktop/questrian folder/src2/QuestrianApp.as</uri>
     <uri label="questrian1.fla">file:///Macintosh HD/Users/john/Desktop/questrian folder/src2/questrian1.fla</uri>
